@@ -1,6 +1,6 @@
 # GAME Smart Contract
 
-This is repository containing all smart contracts related to $GOME.
+This is repository containing all smart contracts related to $GAME.
 
 ## Deployments
 
