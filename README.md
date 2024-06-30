@@ -1,4 +1,4 @@
-# GOME smart contracts
+# GAME Smart Contract
 
 This is repository containing all smart contracts related to $GOME.
 
